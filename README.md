@@ -40,7 +40,8 @@ I'm a passionate developer who loves building software and solving problems. Wel
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=simplysanjeev&theme=radical&no-frame=true&margin-w=4" />
-  <br/><br/>
   
-  <img src="https://streak-stats.demolab.com?user=simplysanjeev&theme=radical" alt="simplysanjeev's streak" />
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=simplysanjeev&show_icons=true&theme=radical&hide_border=true" />
 </div>
