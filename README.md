@@ -42,5 +42,5 @@ I'm a passionate developer who loves building software and solving problems. Wel
   <img src="https://github-profile-trophy.vercel.app/?username=simplysanjeev&theme=radical&no-frame=true&margin-w=4" />
   <br/><br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simplysanjeev&theme=radical" alt="simplysanjeev's streak" />
+  <img src="https://streak-stats.demolab.com?user=simplysanjeev&theme=radical" alt="simplysanjeev's streak" />
 </div>
