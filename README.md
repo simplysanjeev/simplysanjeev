@@ -7,7 +7,20 @@ I'm a passionate developer who loves building software and solving problems. Wel
 - 👀 **I’m interested in** ... Software Development, Architecture, and Open Source.
 - 🌱 **I’m currently learning** ... Advanced Data Structures & Algorithms and System Design.
 - 💞️ **I’m looking to collaborate on** ... Interesting backend projects or open-source tools.
-- 📫 **How to reach me** ... [Your LinkedIn URL] or [Your Email Address]
+- 📫 **How to reach me** ... Feel free to connect using the links below!
+
+---
+
+### 🤝 **Connect with Me**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/simplysanjeev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:sanjeevkumarv2.0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" />
+  </a>
+</p>
 
 ---
 
